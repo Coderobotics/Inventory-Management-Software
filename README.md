@@ -5,7 +5,7 @@ The goal of inventory control is to accurately know current inventory levels and
 
 Inventory Management System (IMS) is a powerful, easy to use IMS for Windows (all versions) user. It is rich in features, ever think of an easy way to handle financial such purchase, purchase return, sales, sales return, stock adjustment, adding/ removing items, computing employee’s salary, expenses etc. At its core, inventory control works by tracking two main functions of your stockroom or warehouse — receiving (incoming) and shipping (outgoing). There’s other actions that take place such as movement, or relocating, of inventory, as well as in manufacturing situations raw materials are decremented and finished goods get incremented. The act of performing physical inventory counts is another input to an inventory system that allows it to accurately keep track of inventory levels.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2017/11/IMS-1.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738272174_56da9ad1a23a4d00fcbd.webp">
 
 <b>Inventory Management Software has the following key features:</b>
 
@@ -26,5 +26,15 @@ Inventory Management System (IMS) is a powerful, easy to use IMS for Windows (al
 <li>Report</li>
 <li>Manage Backups</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/inventory-management-system/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/inventory-express
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
